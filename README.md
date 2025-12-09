@@ -18,4 +18,5 @@ GeometryGuru provides quick calculations for:
 - ✅ **Educational tool** for geometry basics
 
 ## 📸 Demonstration
-![alt text](Gif.gif)
+![!\[alt text\](Gif.gif)
+](Gif.gif)
