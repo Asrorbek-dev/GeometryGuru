@@ -84,7 +84,7 @@ class Menu
         while (true)
         {
             Console.Clear();
-            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Yellow
             Console.WriteLine("=====================");
             Console.WriteLine("=== Geometry Guru ===");
             Console.WriteLine("=====================");
