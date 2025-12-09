@@ -84,9 +84,11 @@ class Menu
         while (true)
         {
             Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("=====================");
             Console.WriteLine("=== Geometry Guru ===");
             Console.WriteLine("=====================");
+            Console.ResetColor();
             Console.WriteLine("1. Doira yuzasi");
             Console.WriteLine("2. Tortburchak yuzasi");
             Console.WriteLine("3. Uchburchak yuzasi");
